@@ -31,8 +31,6 @@ The folder structure within each discipline directory is designed to maintain an
 - `/assignments`: Completed assignments and AI-related tasks.
 - `/projects`: Research projects, AI code, and related documentation.
 - `/datasets`: Datasets used in AI experiments and projects.
-- `/resources`: Supplementary reading materials, links, and resources.
-- `/misc`: Miscellaneous files related to the discipline.
 
 Feel free to explore each discipline folder to access relevant content.
 
